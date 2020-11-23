@@ -4,7 +4,9 @@ class LoginPage:
     textbox_password_id = "Password"
     button_login_xpath = "//input[@value='Log in']"
     link_logout_linktext = "Logout"
+    logged_In_userName_xpath = "//li[@class='account-info']"
 
+    # Business Logic
     def __init__(self,driver):
         self.driver=driver
 
@@ -21,3 +23,7 @@ class LoginPage:
 
     def clickLogout(self):
         self.driver.find_element_by_link_text(self.link_logout_linktext).click()
+
+    def verifyLoggedInUser(self):
+        name = self.driver.find_element_by_xpath(self.logged_In_userName_xpath).text
+        print("Logged in user is : ", name)

@@ -7,7 +7,7 @@ import time
 
 class Test_002_DDT_Login():
     baseURL = ReadConfig.getApplicationURL()
-    path = ".//TestData/LoginData.xlsx"
+    path = ".//TestData//LoginData.xlsx"
     logger = LogGen.loggen()  # Logger
 
     @pytest.mark.regression

@@ -211,3 +211,31 @@
 12/20/2019 06:23:39 AM: INFO: ******* Ending Add customer test **********
 12/20/2019 06:23:44 AM: INFO: ****Started Login Test****
 12/20/2019 06:23:51 AM: INFO: ****Login test passed ****
+11/23/2020 09:10:49 PM: INFO: Looking for [chromedriver 87.0.4280.20 mac64] driver in cache 
+11/23/2020 09:10:49 PM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.20/mac64/chromedriver]
+11/23/2020 09:10:51 PM: INFO: ************* Test_003_AddCustomer **********
+11/23/2020 09:10:59 PM: INFO: ************* Login succesful **********
+11/23/2020 09:10:59 PM: INFO: ******* Starting Add Customer Test **********
+11/23/2020 09:10:59 PM: INFO: Looking for [chromedriver 87.0.4280.20 mac64] driver in cache 
+11/23/2020 09:10:59 PM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.20/mac64/chromedriver]
+11/23/2020 09:11:01 PM: INFO: ****Started Login Test****
+11/23/2020 09:11:08 PM: INFO: ****Login test passed ****
+11/23/2020 09:17:36 PM: INFO: Looking for [chromedriver 87.0.4280.20 mac64] driver in cache 
+11/23/2020 09:17:36 PM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.20/mac64/chromedriver]
+11/23/2020 09:17:38 PM: INFO: *************** Test_001A_Login *****************
+11/23/2020 09:17:38 PM: INFO: ****Started Home page title test ****
+11/23/2020 09:17:38 PM: INFO: ****Opening URL****
+11/23/2020 09:17:42 PM: INFO: **** Home page title test passed ****
+11/23/2020 09:17:42 PM: INFO: Looking for [chromedriver 87.0.4280.20 mac64] driver in cache 
+11/23/2020 09:17:42 PM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.20/mac64/chromedriver]
+11/23/2020 09:17:44 PM: INFO: ****Started Login Test****
+11/23/2020 09:19:56 PM: INFO: Looking for [chromedriver 87.0.4280.20 mac64] driver in cache 
+11/23/2020 09:19:56 PM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.20/mac64/chromedriver]
+11/23/2020 09:19:58 PM: INFO: *************** Test_001A_Login *****************
+11/23/2020 09:19:58 PM: INFO: ****Started Home page title test ****
+11/23/2020 09:19:58 PM: INFO: ****Opening URL****
+11/23/2020 09:20:02 PM: INFO: **** Home page title test passed ****
+11/23/2020 09:20:02 PM: INFO: Looking for [chromedriver 87.0.4280.20 mac64] driver in cache 
+11/23/2020 09:20:02 PM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.20/mac64/chromedriver]
+11/23/2020 09:20:04 PM: INFO: ****Started Login Test****
+11/23/2020 09:20:13 PM: INFO: ****Login test passed ****

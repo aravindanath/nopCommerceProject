@@ -4,7 +4,7 @@ from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 
-class Test_001_Login:
+class Test_001A_Login:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUseremail()
     password = ReadConfig.getPassword()
@@ -13,7 +13,7 @@ class Test_001_Login:
     # @pytest.mark.sanity
     @pytest.mark.regression
     def test_homePageTitle(self,setup):
-        self.logger.info("*************** Test_001_Login *****************")
+        self.logger.info("*************** Test_001A_Login *****************")
         self.logger.info("****Started Home page title test ****")
         self.driver = setup
         self.logger.info("****Opening URL****")
@@ -41,6 +41,8 @@ class Test_001_Login:
         self.lp.setUserName(self.username)
         self.lp.setPassword(self.password)
         self.lp.clickLogin()
+        self.lp.verifyLoggedInUser()
+
         act_title=self.driver.title
         if act_title=="Dashboard / nopCommerce administration":
             self.logger.info("****Login test passed ****")
