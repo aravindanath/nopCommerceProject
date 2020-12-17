@@ -239,3 +239,50 @@
 11/23/2020 09:20:02 PM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.20/mac64/chromedriver]
 11/23/2020 09:20:04 PM: INFO: ****Started Login Test****
 11/23/2020 09:20:13 PM: INFO: ****Login test passed ****
+12/06/2020 09:56:14 AM: INFO: Trying to download new driver from http://chromedriver.storage.googleapis.com/87.0.4280.88/chromedriver_mac64.zip
+12/06/2020 09:56:17 AM: INFO: Unpack archive /Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.88/mac64/chromedriver.zip
+12/06/2020 09:56:20 AM: INFO: *************** Test_CAT_001 *****************
+12/06/2020 09:56:20 AM: INFO: ****Started Home page title test ****
+12/06/2020 09:56:20 AM: INFO: ****Opening URL****
+12/06/2020 09:56:24 AM: INFO: **** Home page title test passed ****
+12/06/2020 09:56:24 AM: INFO: Looking for [chromedriver 87.0.4280.88 mac64] driver in cache 
+12/06/2020 09:56:24 AM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.88/mac64/chromedriver]
+12/06/2020 09:56:26 AM: INFO: ****Started Login Test****
+12/06/2020 09:56:41 AM: INFO: ****Login test passed ****
+12/06/2020 09:58:26 AM: INFO: Looking for [chromedriver 87.0.4280.88 mac64] driver in cache 
+12/06/2020 09:58:26 AM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.88/mac64/chromedriver]
+12/06/2020 09:58:28 AM: INFO: *************** Test_CAT_001 *****************
+12/06/2020 09:58:28 AM: INFO: ****Started Home page title test ****
+12/06/2020 09:58:28 AM: INFO: ****Opening URL****
+12/06/2020 09:58:31 AM: INFO: **** Home page title test passed ****
+12/06/2020 09:58:31 AM: INFO: Looking for [chromedriver 87.0.4280.88 mac64] driver in cache 
+12/06/2020 09:58:31 AM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.88/mac64/chromedriver]
+12/06/2020 09:58:33 AM: INFO: ****Started Login Test****
+12/06/2020 09:58:41 AM: INFO: ****Login test passed ****
+12/06/2020 09:59:16 AM: INFO: Looking for [chromedriver 87.0.4280.88 mac64] driver in cache 
+12/06/2020 09:59:16 AM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.88/mac64/chromedriver]
+12/06/2020 09:59:19 AM: INFO: *************** Test_CAT_001 *****************
+12/06/2020 09:59:19 AM: INFO: ****Started Home page title test ****
+12/06/2020 09:59:19 AM: INFO: ****Opening URL****
+12/06/2020 09:59:23 AM: INFO: **** Home page title test passed ****
+12/06/2020 09:59:23 AM: INFO: Looking for [chromedriver 87.0.4280.88 mac64] driver in cache 
+12/06/2020 09:59:23 AM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.88/mac64/chromedriver]
+12/06/2020 09:59:25 AM: INFO: ****Started Login Test****
+12/06/2020 10:02:13 AM: INFO: Looking for [chromedriver 87.0.4280.88 mac64] driver in cache 
+12/06/2020 10:02:13 AM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.88/mac64/chromedriver]
+12/06/2020 10:02:15 AM: INFO: *************** Test_CAT_001 *****************
+12/06/2020 10:02:15 AM: INFO: ****Started Home page title test ****
+12/06/2020 10:02:15 AM: INFO: ****Opening URL****
+12/06/2020 10:02:20 AM: INFO: **** Home page title test passed ****
+12/06/2020 10:02:20 AM: INFO: Looking for [chromedriver 87.0.4280.88 mac64] driver in cache 
+12/06/2020 10:02:20 AM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.88/mac64/chromedriver]
+12/06/2020 10:02:22 AM: INFO: ****Started Login Test****
+12/06/2020 10:03:35 AM: INFO: Looking for [chromedriver 87.0.4280.88 mac64] driver in cache 
+12/06/2020 10:03:35 AM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.88/mac64/chromedriver]
+12/06/2020 10:03:38 AM: INFO: *************** Test_CAT_001 *****************
+12/06/2020 10:03:38 AM: INFO: ****Started Home page title test ****
+12/06/2020 10:03:38 AM: INFO: ****Opening URL****
+12/06/2020 10:03:41 AM: INFO: **** Home page title test passed ****
+12/06/2020 10:03:41 AM: INFO: Looking for [chromedriver 87.0.4280.88 mac64] driver in cache 
+12/06/2020 10:03:41 AM: INFO: File found in cache by path [/Users/aravindanathdm/.wdm/drivers/chromedriver/87.0.4280.88/mac64/chromedriver]
+12/06/2020 10:03:43 AM: INFO: ****Started Login Test****
